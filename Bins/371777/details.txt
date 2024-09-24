@@ -1,5 +1,0 @@
-Card Number: 371777909081006
-Expiry Date: 5/2026
-CVV: 1688
-Name: Oscar Rosas Avelar
-Additional Details: ||||MX|523336761400||--|187.189.190.247|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/102.0.5005.61 Safari/537.36

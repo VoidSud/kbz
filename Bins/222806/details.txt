@@ -1,5 +1,0 @@
-Card Number: 2228061885776488
-Expiry Date: 3/2027
-CVV: 622
-Name: phan thi hoang kim
-Additional Details: ||||VN|84903778771||--|115.74.21.91|Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0

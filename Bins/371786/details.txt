@@ -1,5 +1,0 @@
-Card Number: 371786032183001
-Expiry Date: 2/2027
-CVV: 1318
-Name: Gibran Dar
-Additional Details: ||||||gibrandar@gmail.com|--|115.164.47.19|Mozilla/5.0 (Linux; Android 11; M2103K19G) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36

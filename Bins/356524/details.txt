@@ -1,5 +1,0 @@
-Card Number: 3565240910017758
-Expiry Date: 11/2025
-CVV: 746
-Name: Rudy 
-Additional Details: |||||||--|203.78.120.35|Mozilla/5.0 (Linux; Android 12; SM-G975U1) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36
