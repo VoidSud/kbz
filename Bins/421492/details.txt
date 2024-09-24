@@ -1,0 +1,5 @@
+Card Number: 4214920501386125
+Expiry Date: 12/2025
+CVV: 209
+Name: Vikas chowdary 
+Additional Details: |||||||--|202.58.196.32|Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) CriOS/102.0.5005.87 Mobile/15E148 Safari/604.1

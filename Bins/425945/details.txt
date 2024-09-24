@@ -1,0 +1,5 @@
+Card Number: 4259456201016882
+Expiry Date: 1/2027
+CVV: 196
+Name: Fadli
+Additional Details: |pontianak|KB|-|ID|62899670033|fadlinovita@gmail.com|30-10-1988|175.137.116.111|Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Version/14.0 Safari/604.1

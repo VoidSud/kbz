@@ -1,0 +1,5 @@
+Card Number: 4201920134689221
+Expiry Date: 5/2025
+CVV: 632
+Name: Nusa yati
+Additional Details: |||||||--|120.188.87.203|Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148

@@ -1,0 +1,5 @@
+Card Number: 4299200828932374
+Expiry Date: 6/2027
+CVV: 862
+Name: VISA CENTER
+Additional Details: ||||JO|962795909070||--|92.253.28.118|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/105.0.0.0 Safari/537.36

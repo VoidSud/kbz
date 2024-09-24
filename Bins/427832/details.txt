@@ -1,0 +1,5 @@
+Card Number: 4278320020305172
+Expiry Date: 7/2025
+CVV: 145
+Name: Vitaly Kotsur
+Additional Details: |||||79067280494|kotsurvital@gmail.com|27-07-1980|37.151.215.105|Mozilla/5.0 (Linux; U; Android 4.0.3; ko-kr; LG-L160L Build/IML74K) AppleWebkit/534.30 (KHTML; like Gecko) Version/4.0 Mobile Safari/534.30; Chrome/56.0.0.0 Mobile

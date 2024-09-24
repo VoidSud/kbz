@@ -1,0 +1,5 @@
+Card Number: 4286880082643653
+Expiry Date: 10/2026
+CVV: 937
+Name: Andre Luiz Melo Soares
+Additional Details: ||||AE|971524258771||--|94.204.243.79|Mozilla/5.0 (Linux; Android 12; SM-A217M) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36

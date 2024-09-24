@@ -1,0 +1,5 @@
+Card Number: 4199270013165305
+Expiry Date: 5/2026
+CVV: 323
+Name: Theresa juanis
+Additional Details: |||||601126894904|theresajuanis@gmail.com|06-10-1991|183.171.24.4|Mozilla/5.0 (Linux; U; Android 4.0.3; ko-kr; LG-L160L Build/IML74K) AppleWebkit/534.30 (KHTML; like Gecko) Version/4.0 Mobile Safari/534.30; Chrome/56.0.0.0 Mobile

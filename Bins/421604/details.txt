@@ -1,0 +1,5 @@
+Card Number: 4216040012740336
+Expiry Date: 4/2027
+CVV: 160
+Name: Edin Premtic
+Additional Details: ||||AU|610434782267||--|194.223.39.28|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/101.0.4951.54 Safari/537.36

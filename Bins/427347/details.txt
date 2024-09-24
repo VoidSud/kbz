@@ -1,0 +1,5 @@
+Card Number: 4273470502571612
+Expiry Date: 8/2025
+CVV: 756
+Name: Thomas Fuhrer
+Additional Details: ||||CH|41793088620||--|188.62.57.252|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53

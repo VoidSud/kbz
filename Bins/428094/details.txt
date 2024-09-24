@@ -1,0 +1,5 @@
+Card Number: 4280940013090345
+Expiry Date: 6/2029
+CVV: 208
+Name: Pranjal Prashar
+Additional Details: ||||IN|918860576109||--|103.171.99.30|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/103.0.0.0 Safari/537.36

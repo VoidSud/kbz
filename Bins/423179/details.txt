@@ -1,0 +1,5 @@
+Card Number: 4231798850089352
+Expiry Date: 11/2026
+CVV: 640
+Name: Priscilla lau
+Additional Details: |singapore|SGN|-|SG|6582885716|lau_priscilla@hotmail.com|16-07-1990|122.11.212.76|Mozilla/5.0 (Linux; U; Android 4.0.3; ko-kr; LG-L160L Build/IML74K) AppleWebkit/534.30 (KHTML; like Gecko) Version/4.0 Mobile Safari/534.30; Chrome/56.0.0.0 Mobile

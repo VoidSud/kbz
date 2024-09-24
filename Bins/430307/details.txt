@@ -1,0 +1,5 @@
+Card Number: 4303070007121923
+Expiry Date: 7/2024
+CVV: 818
+Name: Gabriela
+Additional Details: ||||CA|18105778052||--|73.66.202.179|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/100.0.4896.75 Safari/537.36

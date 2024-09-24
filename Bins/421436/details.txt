@@ -1,0 +1,5 @@
+Card Number: 4214360300507748
+Expiry Date: 11/2029
+CVV: 007
+Name: Snr
+Additional Details: |aruppukottai|TN|-|IN|919003351111|snravitech@gmail.com|23-05-1984|106.195.47.68|Mozilla/5.0 (iPhone; CPU iPhone OS 15_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Version/15.6.1 Mobile/15E148 Safari/604.1

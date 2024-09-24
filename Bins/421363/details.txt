@@ -1,0 +1,5 @@
+Card Number: 4213630000574367
+Expiry Date: 6/2024
+CVV: 568
+Name: ASFAG ADAM
+Additional Details: |||||94777424227|riphqa@hotmail.com|23-06-1991|209.212.209.246|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/101.0.4951.67 Safari/537.36

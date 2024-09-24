@@ -1,0 +1,5 @@
+Card Number: 4213131101068607
+Expiry Date: 5/2027
+CVV: 685
+Name: I KADEK OKA S
+Additional Details: |||||||--|180.254.211.157|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/103.0.0.0 Safari/537.36

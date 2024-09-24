@@ -1,0 +1,5 @@
+Card Number: 4263563601935613
+Expiry Date: 5/2026
+CVV: 547
+Name: Mahmoud ElAhmedawy
+Additional Details: ||||EG|201024000980||--|196.221.242.27|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0

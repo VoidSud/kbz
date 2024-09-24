@@ -1,0 +1,5 @@
+Card Number: 4188984900883993
+Expiry Date: 2/2027
+CVV: 695
+Name: Julie Ann Rasco
+Additional Details: |||||||--|110.54.223.248|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/105.0.0.0 Safari/537.36

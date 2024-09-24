@@ -1,0 +1,5 @@
+Card Number: 4188879010208166
+Expiry Date: 4/2027
+CVV: 507
+Name: Mahmoud Moustafa
+Additional Details: |Dubai|DU|-|AE|971502382655|doleep@gmail.com|11-04-1984|94.204.245.148|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/103.0.0.0 Safari/537.36

@@ -1,0 +1,5 @@
+Card Number: 4286090162192239
+Expiry Date: 4/2027
+CVV: 918
+Name: Eka Chandra Kurniawan 
+Additional Details: |||||85569390777|ec_kurniawan@yahoo.com|09-08-1984|136.228.128.47|Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148

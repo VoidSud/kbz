@@ -1,0 +1,5 @@
+Card Number: 4214080004119380
+Expiry Date: 7/2027
+CVV: 574
+Name: Daniil Kazakov
+Additional Details: |||||6281239246835|svetlanako.omsu@gmail.com|16-06-1993|103.206.205.223|Mozilla/5.0 (Linux; U; Android 4.0.3; ko-kr; LG-L160L Build/IML74K) AppleWebkit/534.30 (KHTML; like Gecko) Version/4.0 Mobile Safari/534.30; Chrome/56.0.0.0 Mobile

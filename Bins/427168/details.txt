@@ -1,0 +1,5 @@
+Card Number: 4271680001221855
+Expiry Date: 7/2025
+CVV: 590
+Name: Rodrigo de souza
+Additional Details: ||||BR|5516993053473||19-01-1996|182.16.234.31|Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148
