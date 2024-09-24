@@ -9,7 +9,7 @@ function fetchDetails() {
     }
   
     // Create the path to the details.txt file based on user input
-    const filePath = `/bins/${bin}/details.txt`;
+    const filePath = `/Bins/${bin}/details.txt`;
   
     // Fetch the file content
     fetch(filePath)
