@@ -8,32 +8,78 @@
     body {
       font-family: Arial, sans-serif;
       margin: 0;
-      padding: 20px;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: url('background.jpg') no-repeat center center fixed;
+      background-size: cover;
+    }
+
+    .container {
+      background: rgba(0, 0, 0, 0.7);
+      padding: 40px;
+      border-radius: 15px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+      width: 100%;
+      max-width: 400px;
       text-align: center;
     }
+
+    h1 {
+      color: #fff;
+      margin-bottom: 20px;
+      font-size: 2em;
+    }
+
+    p {
+      color: #ccc;
+      margin-bottom: 20px;
+    }
+
     input[type="text"] {
-      padding: 10px;
-      width: 80%;
-      margin: 10px 0;
-      font-size: 1.2em;
+      padding: 12px;
+      width: 90%;
+      margin-bottom: 20px;
+      font-size: 1.1em;
+      border-radius: 8px;
+      border: none;
+      outline: none;
     }
+
     button {
-      padding: 10px 20px;
-      font-size: 1.2em;
+      padding: 12px 20px;
+      font-size: 1.1em;
       cursor: pointer;
+      background-color: #4caf50;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      margin-bottom: 20px;
+      transition: background-color 0.3s;
     }
+
+    button:hover {
+      background-color: #45a049;
+    }
+
     #output {
       margin-top: 20px;
-      font-size: 1.2em;
+      font-size: 1.1em;
+      color: #fff;
     }
   </style>
 </head>
 <body>
-  <h1>BIN Finder</h1>
-  <p>Enter a 6-digit BIN number:</p>
-  <input type="text" id="binInput" placeholder="Enter 6-digit BIN">
-  <button onclick="fetchDetails()">Find Details</button>
-  <div id="output"></div>
+  <div class="container">
+    <h1>BIN Finder</h1>
+    <p>Enter a 6-digit BIN number:</p>
+    <input type="text" id="binInput" placeholder="Enter 6-digit BIN">
+    <button onclick="fetchDetails()">Find Details</button>
+    <div id="output"></div>
+  </div>
 
   <script src="binfinder.js"></script>
 </body>
