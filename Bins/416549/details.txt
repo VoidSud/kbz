@@ -1,0 +1,5 @@
+Card Number: 4165490094851280
+Expiry Date: 3/2027
+CVV: 966
+Name: Zak Bishton 
+Additional Details: |||||447305301160|zakbish0512@outlook.com|10-08-1999|58.11.30.39|Mozilla/5.0 (iPhone; CPU iPhone OS 15_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148

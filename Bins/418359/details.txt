@@ -1,0 +1,5 @@
+Card Number: 4183590484972105
+Expiry Date: 10/2026
+CVV: 916
+Name: Agerico Funelas III
+Additional Details: |||||639561597958|lisoftsl@gmail.com|--|120.29.109.218|Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/100.0.4896.60 Safari/537.36

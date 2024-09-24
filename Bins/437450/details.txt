@@ -1,0 +1,5 @@
+Card Number: 4374500003928206
+Expiry Date: 6/2024
+CVV: 054
+Name: Dedy Wijaya
+Additional Details: ||||ID|6285195311398||--|103.11.219.13|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/107.0.0.0 Safari/537.36

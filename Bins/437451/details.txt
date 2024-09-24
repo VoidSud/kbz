@@ -1,0 +1,5 @@
+Card Number: 4374510000141729
+Expiry Date: 8/2024
+CVV: 493
+Name: Robertus widyadharma  
+Additional Details: |||||||--|120.188.86.91|Mozilla/5.0 (Linux; Android 8.1.0; BBF100-4) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/92.0.4515.166 Mobile Safari/537.36

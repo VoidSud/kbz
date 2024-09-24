@@ -1,0 +1,5 @@
+Card Number: 4165987662484535
+Expiry Date: 10/2027
+CVV: 239
+Name: Pedro Horazio Vararean
+Additional Details: |||||6282147692950|alex.eremie19@gmail.com|07-06-1998|118.99.92.109|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/108.0.0.0 Safari/537.36

@@ -1,0 +1,5 @@
+Card Number: 4355510041201766
+Expiry Date: 11/2024
+CVV: 560
+Name: Vincent Gustav Oehlander Rice
+Additional Details: ||||SE|46707514557||--|94.234.108.131|Mozilla/5.0 (Linux; Android 12; M2011K2G) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36

@@ -1,0 +1,5 @@
+Card Number: 4324492216369116
+Expiry Date: 8/2027
+CVV: 085
+Name: fonny
+Additional Details: ||||ID|628118501203||--|182.253.209.210|Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/106.0.0.0 Safari/537.36

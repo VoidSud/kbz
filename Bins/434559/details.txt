@@ -1,0 +1,5 @@
+Card Number: 4345591134305899
+Expiry Date: 5/2027
+CVV: 534
+Name: Matias Zambrano
+Additional Details: ||||CA|12342341254||--|73.44.170.147|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0
