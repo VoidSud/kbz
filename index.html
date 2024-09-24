@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Add Firebase SDK -->
+    <script type="module">
+        // Import the functions you need from Firebase SDK
+        import { initializeApp } from 'https://www.gstatic.com/firebasejs/9.6.10/firebase-app.js';
+        import { getAuth, signInWithEmailAndPassword } from 'https://www.gstatic.com/firebasejs/9.6.10/firebase-auth.js';
+
+        // Your Firebase configuration object from the Firebase Console
+        const firebaseConfig = {
+          apiKey: "AIzaSyDVLmP_l38v-l82P4ufVSZ8r-dXoTGkPpY",
+          authDomain: "frostyyccs.firebaseapp.com",
+          projectId: "frostyyccs",
+          storageBucket: "frostyyccs.appspot.com",
+          messagingSenderId: "1:387443579870:web:de11427a3ba66286a55b4f",
+          appId: "1:387443579870:web:de11427a3ba66286a55b4f"
+        };
+
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const auth = getAuth(app);
+
+        // Function to handle login
+        window.addEventListener('DOMContentLoaded', (event) => {
+            document.getElementById('loginForm').addEventListener('submit', function(e) {
+                e.preventDefault(); // Prevent form submission
+
+                const email = document.getElementById('username').value;
+                const password = document.getElementById('password').value;
+
+                // Sign in with Firebase Authentication
+                signInWithEmailAndPassword(auth, email, password)
+                    .then((userCredential) => {
+                        // Login successful
+                        alert('Login successful');
+                        window.location.href = 'Login.html'; // Redirect to dashboard
+                    })
+                    .catch((error) => {
+                        // Handle Errors here.
+                        const errorCode = error.code;
+                        const errorMessage = error.message;
+                        alert('Invalid username or password');
+                        console.error('Error:', errorCode, errorMessage);
+                    });
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="login-container">
+        <form class="login-form" id="loginForm">
+            <h2>Login</h2>
+            <div class="input-group">
+                <input type="text" placeholder="Username" id="username" required>
+                <span class="icon">&#128100;</span>
+            </div>
+            <div class="input-group">
+                <input type="password" placeholder="Password" id="password" required>
+                <span class="icon">&#128274;</span>
+            </div>
+            <div class="options">
+                <label><input type="checkbox" id="rememberMe"> Remember me</label>
+                <a href="#" class="forgot-password">Forgot password?</a>
+            </div>
+            <button type="submit">Login</button>
+            <p class="register">Don't have an account? <a href="#">Register</a></p>
+        </form>
+    </div>
+</body>
+</html>
