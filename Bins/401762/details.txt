@@ -1,0 +1,5 @@
+Card Number: 4017620015701012
+Expiry Date: 4/2026
+CVV: 893
+Name: kim ju hyeong
+Additional Details: |||||821089935638|031metal@naver.com|02-01-1983|116.121.243.17|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/106.0.5249.207 Whale/3.17.145.18 Safari/537.36

@@ -1,0 +1,5 @@
+Card Number: 377388617731009
+Expiry Date: 3/2027
+CVV: 6492
+Name: Daria Sniegowska
+Additional Details: ||||GB|4407551491111||--|86.143.160.93|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML; like Gecko) Version/14.1.1 Safari/605.1.15

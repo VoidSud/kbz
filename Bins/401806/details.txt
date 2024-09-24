@@ -1,0 +1,5 @@
+Card Number: 4018066026021124
+Expiry Date: 6/2024
+CVV: 352
+Name: Visa Debit Card
+Additional Details: |||||919677934710|trinit.rinaldo@smscountry.com|--|49.37.205.222|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/103.0.0.0 Safari/537.36

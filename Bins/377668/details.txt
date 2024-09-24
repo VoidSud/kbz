@@ -1,0 +1,5 @@
+Card Number: 377668512665018
+Expiry Date: 11/2024
+CVV: 4468
+Name: Nafiu Mohamed
+Additional Details: ||||MV|960-7698908||--|185.215.35.202|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52

@@ -1,0 +1,5 @@
+Card Number: 379868132681001
+Expiry Date: 10/2026
+CVV: 6845
+Name: rishabh kapoor
+Additional Details: ||||IN|919899414469||--|122.161.48.179|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML; like Gecko) Version/14.1.2 Safari/605.1.15

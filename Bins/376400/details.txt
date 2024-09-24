@@ -1,0 +1,5 @@
+Card Number: 376400186214068
+Expiry Date: 6/2027
+CVV: 6815
+Name: nahuel palenque
+Additional Details: |||||||--|203.150.153.92|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/103.0.0.0 Safari/537.36

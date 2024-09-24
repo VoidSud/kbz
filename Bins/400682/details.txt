@@ -1,0 +1,5 @@
+Card Number: 4006822040493366
+Expiry Date: 1/2027
+CVV: 579
+Name: Chan So Ei
+Additional Details: |Singapore|SGN|310071|SG|6597626433|soeichan1301@gmail.com|20-09-1985|116.15.251.215|Mozilla/5.0 (iPhone; CPU iPhone OS 15_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148

@@ -1,0 +1,5 @@
+Card Number: 4003618780240832
+Expiry Date: 12/2027
+CVV: 239
+Name: KAO SHU CHU
+Additional Details: |||||886913150033|akito9190@gmail.com|19-09-1996|118.160.142.182|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/105.0.0.0 Safari/537.36

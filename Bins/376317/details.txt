@@ -1,0 +1,5 @@
+Card Number: 376317601132370
+Expiry Date: 6/2027
+CVV: 3192
+Name: Anant Hada 
+Additional Details: ||||SG|65-81574137||02-09-1985|122.11.214.229|Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148

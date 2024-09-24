@@ -1,0 +1,5 @@
+Card Number: 4025435000007113
+Expiry Date: 7/2028
+CVV: 284
+Name: Antonio Colaci Vintani
+Additional Details: ||||HK|85262863211||--|42.98.115.211|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/107.0.0.0 Safari/537.36

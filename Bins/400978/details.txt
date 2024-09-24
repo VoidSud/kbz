@@ -1,0 +1,5 @@
+Card Number: 4009787006331206
+Expiry Date: 7/2027
+CVV: 545
+Name: SEO MIN JI
+Additional Details: ||||KR|8201054943099||--|210.103.72.87|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62

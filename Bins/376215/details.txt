@@ -1,0 +1,5 @@
+Card Number: 376215707413019
+Expiry Date: 4/2027
+CVV: 5461
+Name: Clara Yap
+Additional Details: ||||SG|65-94378425||--|116.88.117.116|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML; like Gecko) Version/15.5 Safari/605.1.15

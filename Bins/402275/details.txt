@@ -1,0 +1,5 @@
+Card Number: 4022750188015776
+Expiry Date: 5/2027
+CVV: 775
+Name: Nancy Kala
+Additional Details: |||||||--|223.226.122.131|Mozilla/5.0 (iPhone; CPU iPhone OS 16_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148

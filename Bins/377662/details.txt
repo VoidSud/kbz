@@ -1,0 +1,5 @@
+Card Number: 377662703314056
+Expiry Date: 6/2024
+CVV: 0242
+Name: Michael Herrmann
+Additional Details: ||||CH|41795870816||--|103.40.147.125|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/107.0.0.0 Safari/537.36

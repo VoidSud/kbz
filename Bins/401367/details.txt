@@ -1,0 +1,5 @@
+Card Number: 4013673800030307
+Expiry Date: 5/2026
+CVV: 563
+Name: Atcharawadee Weerakul
+Additional Details: |||||66942898655|atcharawadee2540@gmail.com|25-01-1997|1.46.135.233|Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148
