@@ -1,0 +1,5 @@
+Card Number: 5248790021784704
+Expiry Date: 12/2024
+CVV: 286
+Name: Hans Kristian Bjordal
+Additional Details: ||||NO|4792064793||--|178.232.79.15|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/108.0.0.0 Safari/537.36

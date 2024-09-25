@@ -1,0 +1,5 @@
+Card Number: 5243120031306584
+Expiry Date: 1/2027
+CVV: 518
+Name: MOHD IZZAT
+Additional Details: |||||60134021066|sukirasakura@yahoo.com|05-05-1990|113.210.95.165|Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148
