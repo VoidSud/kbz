@@ -1,0 +1,5 @@
+Card Number: 5120030002933605
+Expiry Date: 6/2026
+CVV: 692
+Name: Indawaty
+Additional Details: ||||ID|6282366688966|inda.tjiu@hotmail.com|07-10-1995|202.162.193.169|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/107.0.0.0 Safari/537.36

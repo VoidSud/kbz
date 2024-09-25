@@ -1,0 +1,5 @@
+Card Number: 4950830150010900
+Expiry Date: 9/2027
+CVV: 274
+Name: Alain Hasenboehler
+Additional Details: |||||41765804021|alenges@gmx.ch|01-03-1981|31.11.6.132|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:104.0) Gecko/20100101 Firefox/104.0

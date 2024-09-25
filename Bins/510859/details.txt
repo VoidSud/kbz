@@ -1,0 +1,5 @@
+Card Number: 5108590000127142
+Expiry Date: 12/2026
+CVV: 995
+Name: Gil Regwam
+Additional Details: ||||IL|9720506861821|reguan@walla.com|13-11-1976|89.237.94.191|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/105.0.0.0 Safari/537.36

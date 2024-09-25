@@ -1,0 +1,5 @@
+Card Number: 4988240476566161
+Expiry Date: 3/2025
+CVV: 373
+Name: Nicola Daly
+Additional Details: |||||||--|1.46.16.185|Mozilla/5.0 (iPhone; CPU iPhone OS 16_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148

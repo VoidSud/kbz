@@ -1,0 +1,5 @@
+Card Number: 4984069150494141
+Expiry Date: 7/2024
+CVV: 882
+Name: Joao Gabriel G Luz
+Additional Details: ||||BR|55-33988211888||--|179.220.77.78|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/107.0.0.0 Safari/537.36

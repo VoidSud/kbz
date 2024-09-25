@@ -1,0 +1,5 @@
+Card Number: 5126880526355915
+Expiry Date: 9/2025
+CVV: 429
+Name: staale skadberg
+Additional Details: ||||NO|4791641314||--|80.203.91.2|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/105.0.0.0 Safari/537.36

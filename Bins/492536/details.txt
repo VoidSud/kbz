@@ -1,0 +1,5 @@
+Card Number: 4925360776212229
+Expiry Date: 1/2025
+CVV: 386
+Name: Bjarne Theilgaard hansen
+Additional Details: |||||||--|161.82.139.11|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML; like Gecko) Version/15.5 Safari/605.1.15

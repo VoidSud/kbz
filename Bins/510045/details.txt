@@ -1,0 +1,5 @@
+Card Number: 5100452052331593
+Expiry Date: 8/2026
+CVV: 593
+Name: Hanna San Nicolo 
+Additional Details: ||||AT|436646296926||--|89.144.200.228|Mozilla/5.0 (Linux; Android 12; SM-G970F) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36

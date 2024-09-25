@@ -1,0 +1,5 @@
+Card Number: 5100581000211513
+Expiry Date: 10/2024
+CVV: 866
+Name: Claudine Jungo
+Additional Details: ||||CH|410795816720||--|176.127.120.133|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
