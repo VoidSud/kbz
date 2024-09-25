@@ -15,7 +15,7 @@ function fetchDetails() {
   fetch(filePath)
     .then(response => {
       if (!response.ok) {
-        throw new Error('BIN not found or details.txt does not exist.');
+        throw new Error('CC Not Found. Currently Unavailable');
       }
       return response.text();
     })
