@@ -1,0 +1,5 @@
+Card Number: 5479888100010767
+Expiry Date: 5/2024
+CVV: 826
+Name: Alex Virtanen
+Additional Details: |||||||--|122.54.221.250|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0

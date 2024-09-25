@@ -1,0 +1,5 @@
+Card Number: 5452990013311117
+Expiry Date: 1/2025
+CVV: 245
+Name: Herman Gautama
+Additional Details: ||||ID|6208159718501||--|54.239.6.188|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/105.0.0.0 Safari/537.36

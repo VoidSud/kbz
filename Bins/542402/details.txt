@@ -1,0 +1,5 @@
+Card Number: 5424027000944470
+Expiry Date: 12/2024
+CVV: 433
+Name: Marcin Slychan
+Additional Details: |||||||--|49.230.211.53|Mozilla/5.0 (Linux; Android 12; M2007J20CG) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36

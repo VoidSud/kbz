@@ -1,0 +1,5 @@
+Card Number: 5481160108971028
+Expiry Date: 11/2026
+CVV: 629
+Name: Fendy Linardi
+Additional Details: |||||628151358328|hannalitantra@yahoo.com|10-05-1995|180.244.162.98|Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/100.0.4896.60 Safari/537.36

@@ -1,0 +1,5 @@
+Card Number: 5497821703323327
+Expiry Date: 1/2026
+CVV: 089
+Name: Ikhmal
+Additional Details: |||||601131729672|mhmdikhmaltuahidris@gmail.com|02-07-1996|115.135.26.17|Mozilla/5.0 (iPhone; CPU iPhone OS 15_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148

@@ -1,0 +1,5 @@
+Card Number: 5500187008412610
+Expiry Date: 11/2025
+CVV: 818
+Name: Gioia Lea Girardet
+Additional Details: ||||CH|41-0794350990||--|42.115.94.33|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0

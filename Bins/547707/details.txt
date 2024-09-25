@@ -1,0 +1,5 @@
+Card Number: 5477070000333514
+Expiry Date: 7/2026
+CVV: 906
+Name: Nitsan Heli Marom
+Additional Details: ||||IL|972525848671||--|141.164.101.177|Mozilla/5.0 (Linux; Android 12; M2101K6G) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36

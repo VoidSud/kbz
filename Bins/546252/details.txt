@@ -1,0 +1,5 @@
+Card Number: 5462521408061914
+Expiry Date: 5/2026
+CVV: 820
+Name: Jeon dami
+Additional Details: |singapore|OTH|-|KR|6594462224|moweec@gmail.com|14-06-1991|113.211.123.106|Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148

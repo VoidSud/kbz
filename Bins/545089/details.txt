@@ -1,0 +1,5 @@
+Card Number: 5450890002518932
+Expiry Date: 8/2025
+CVV: 110
+Name: KWAK EUN JIN
+Additional Details: ||||KR|8201020130464||--|175.195.64.233|Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148
