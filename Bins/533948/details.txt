@@ -1,0 +1,5 @@
+Card Number: 5339480000577143
+Expiry Date: 9/2025
+CVV: 812
+Name: Nguyen Thao Ha
+Additional Details: ||||VN|84985741018|emily.thaoha.nguyen@gmail.com|19-08-1995|118.70.66.57|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/106.0.0.0 Safari/537.36

@@ -1,0 +1,5 @@
+Card Number: 5265580025429119
+Expiry Date: 2/2029
+CVV: 552
+Name: Bank Rakyat
+Additional Details: |||||601111511484|nabilahmohdyusof463@gmail.com|09-09-1996|27.125.250.2|Mozilla/5.0 (iPhone; CPU iPhone OS 15_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148

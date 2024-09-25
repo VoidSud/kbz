@@ -1,0 +1,5 @@
+Card Number: 5287347824862898
+Expiry Date: 11/2027
+CVV: 551
+Name: joe thomas kavalackal
+Additional Details: |||||919567271661|joekavalackal@gmail.com|--|49.37.233.107|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/108.0.0.0 Safari/537.36

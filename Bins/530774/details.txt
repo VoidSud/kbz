@@ -1,0 +1,5 @@
+Card Number: 5307748810303480
+Expiry Date: 5/2027
+CVV: 689
+Name: maksim ryabukhin
+Additional Details: ||||QA|97433251839||--|168.168.43.230|Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/103.0.0.0 Safari/537.36

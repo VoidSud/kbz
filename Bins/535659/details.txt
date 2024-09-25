@@ -1,0 +1,5 @@
+Card Number: 5356592086627317
+Expiry Date: 8/2024
+CVV: 498
+Name: Coralie Trigano
+Additional Details: ||||FR|||--|103.252.200.132|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/103.0.0.0 Safari/537.36

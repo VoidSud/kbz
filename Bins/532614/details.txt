@@ -1,0 +1,5 @@
+Card Number: 5326146207761047
+Expiry Date: 2/2027
+CVV: 761
+Name: shaked avraham ohana
+Additional Details: ||||IL|972527302625||--|49.237.21.14|Mozilla/5.0 (Linux; Android 12; SM-G998B) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36

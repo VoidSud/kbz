@@ -1,0 +1,5 @@
+Card Number: 5326103304743865
+Expiry Date: 4/2025
+CVV: 850
+Name: or jacobovich
+Additional Details: ||||||orjacobovich@gmail.com|--|188.191.229.30|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/103.0.0.0 Safari/537.36

@@ -1,0 +1,5 @@
+Card Number: 5299322324444832
+Expiry Date: 6/2024
+CVV: 531
+Name: Nigel Day
+Additional Details: |Cleethorpes|LIN|-|GB|447808079772|nigelday1@live.com|26-07-1960|145.255.66.110|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54

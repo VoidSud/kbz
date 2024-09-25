@@ -1,0 +1,5 @@
+Card Number: 5326120384762250
+Expiry Date: 9/2027
+CVV: 006
+Name: TAL NISTOR
+Additional Details: ||||IL|972-0549797243||--|118.173.121.152|Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) CriOS/106.0.5249.92 Mobile/15E148 Safari/604.1

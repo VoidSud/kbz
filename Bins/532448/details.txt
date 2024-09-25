@@ -1,0 +1,5 @@
+Card Number: 5324488272464160
+Expiry Date: 11/2024
+CVV: 590
+Name: Ghazi jamal Aljamal
+Additional Details: |||||966561134332|ghazi612@gmail.com|08-05-1986|77.232.108.21|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71

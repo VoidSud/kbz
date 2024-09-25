@@ -1,0 +1,5 @@
+Card Number: 5264222732265111
+Expiry Date: 3/2027
+CVV: 853
+Name: Andres Limon Calleja
+Additional Details: |||||6282124581654|andres.limon@ui.ac.id|--|103.116.174.110|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/108.0.0.0 Safari/537.36

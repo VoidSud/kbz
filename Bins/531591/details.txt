@@ -1,0 +1,5 @@
+Card Number: 5315910011627097
+Expiry Date: 6/2029
+CVV: 609
+Name: Faiz Halimi
+Additional Details: |||||60162335274|mfaizhalimi@gmail.com|24-09-1983|121.123.244.242|Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148

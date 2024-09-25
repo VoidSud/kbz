@@ -1,0 +1,5 @@
+Card Number: 5313291440785927
+Expiry Date: 5/2027
+CVV: 951
+Name: Anumod Malanchary
+Additional Details: ||||KW|96551100422||--|188.70.46.145|Mozilla/5.0 (Linux; Android 12; NTH-NX9) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
