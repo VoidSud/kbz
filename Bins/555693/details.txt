@@ -1,0 +1,5 @@
+Card Number: 5556930350171885
+Expiry Date: 7/2027
+CVV: 799
+Name: Noy Edri
+Additional Details: ||||IL|9720526428811||--|183.89.189.60|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/106.0.0.0 Safari/537.36

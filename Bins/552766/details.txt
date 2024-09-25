@@ -1,0 +1,5 @@
+Card Number: 5527661987401470
+Expiry Date: 6/2024
+CVV: 972
+Name: Vinci   NARUKA
+Additional Details: |||||||--|80.78.71.88|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/102.0.0.0 Safari/537.36

@@ -1,0 +1,5 @@
+Card Number: 5540450500599942
+Expiry Date: 11/2027
+CVV: 229
+Name: Neil Angeles
+Additional Details: |||||639614163406|neiljaysonbangeles@gmail.com|20-11-1995|120.29.76.230|Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148

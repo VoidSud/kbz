@@ -1,0 +1,5 @@
+Card Number: 5530742100424261
+Expiry Date: 5/2026
+CVV: 364
+Name: Ernaldo Timothy Sanyoto
+Additional Details: |Jakarta Selatan|JK|-|ID|628111604504|ernaldo.sanyoto@gmail.com|17-02-1991|101.128.118.156|Mozilla/5.0 (iPhone; CPU iPhone OS 15_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148

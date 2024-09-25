@@ -1,0 +1,5 @@
+Card Number: 5522392315543016
+Expiry Date: 5/2027
+CVV: 253
+Name: Jaseline
+Additional Details: |||||6281299020259|veibejaseline@gmail.com|11-11-1995|114.124.207.33|Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148

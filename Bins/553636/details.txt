@@ -1,0 +1,5 @@
+Card Number: 5536361424624722
+Expiry Date: 10/2028
+CVV: 732
+Name: marina ganeo chuba
+Additional Details: |||||5511971596949|marinagchuba@gmail.com|15-06-1991|112.134.210.228|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/102.0.0.0 Safari/537.36

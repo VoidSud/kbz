@@ -1,0 +1,5 @@
+Card Number: 5523389013253012
+Expiry Date: 6/2027
+CVV: 272
+Name: WILSON
+Additional Details: |Medan|SU|-|ID|6281396553777|wilsonyoung368@yahoo.co.id|13-07-1970|36.71.137.116|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0

@@ -1,0 +1,5 @@
+Card Number: 5522605001814726
+Expiry Date: 7/2025
+CVV: 329
+Name: Nikhil Kumar jain 
+Additional Details: |||||919840660979|nikdcbgroup@gmail.com|14-02-1993|49.37.221.71|Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148

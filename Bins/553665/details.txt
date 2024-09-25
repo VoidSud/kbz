@@ -1,0 +1,5 @@
+Card Number: 5536650388243895
+Expiry Date: 10/2029
+CVV: 273
+Name: EBERT A R BANDEIRA
+Additional Details: ||||BR|5534991277125||--|186.210.240.119|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/106.0.0.0 Safari/537.36

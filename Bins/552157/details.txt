@@ -1,0 +1,5 @@
+Card Number: 5521573045730731
+Expiry Date: 1/2026
+CVV: 530
+Name: Emily Hale
+Additional Details: |||||447861689912|43212emily@gmail.com|31-07-1992|152.37.108.171|Mozilla/5.0 (X11; CrOS x86_64 14989.107.0) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/105.0.0.0 Safari/537.36

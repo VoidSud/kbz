@@ -1,0 +1,5 @@
+Card Number: 5573380801988272
+Expiry Date: 8/2024
+CVV: 365
+Name: Juli
+Additional Details: |||||6282219142550|july.liong@hotmail.com|10-07-1991|36.71.141.221|Mozilla/5.0 (iPhone; CPU iPhone OS 15_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148

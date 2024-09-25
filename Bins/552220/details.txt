@@ -1,0 +1,5 @@
+Card Number: 5522205997261204
+Expiry Date: 9/2025
+CVV: 411
+Name: Kim kyung eun
+Additional Details: ||||KR|82-01030412628||--|118.235.12.115|Mozilla/5.0 (iPhone; CPU iPhone OS 15_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Version/15.4 Mobile/15E148 Safari/605.1 NAVER(inapp; search; 1010; 11.11.1; 11PROMAX)
