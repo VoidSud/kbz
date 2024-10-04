@@ -1,10 +1,39 @@
+// Function to populate the BIN selector
+function populateBinSelect() {
+  const binSelect = document.getElementById('binInput');
+
+  // Fetch the list of BINs from the server
+  fetch('getBins.php')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Failed to load BINs');
+      }
+      return response.json();
+    })
+    .then(bins => {
+      // Populate the selector with the retrieved BINs
+      bins.forEach(bin => {
+        const option = document.createElement('option');
+        option.value = bin;
+        option.textContent = bin;
+        binSelect.appendChild(option);
+      });
+    })
+    .catch(error => {
+      console.error('Error fetching BINs:', error);
+      const output = document.getElementById('output');
+      output.innerHTML = `<p style='color: red;'>Error loading BINs: ${error.message}</p>`;
+    });
+}
+
+// Function to fetch details based on selected BIN
 function fetchDetails() {
   const bin = document.getElementById('binInput').value.trim();
   const output = document.getElementById('output');
 
-  // Validate the input
-  if (bin.length !== 6 || isNaN(bin)) {
-    output.innerHTML = "<p style='color: red;'>Please enter a valid 6-digit BIN number.</p>";
+  // Check if a BIN is selected
+  if (!bin) {
+    output.innerHTML = "<p style='color: red;'>Please select a valid 6-digit BIN number.</p>";
     return;
   }
 
@@ -27,3 +56,6 @@ function fetchDetails() {
       output.innerHTML = `<p style='color: red;'>Error: ${error.message}</p>`;
     });
 }
+
+// Call the function to populate the selector when the page loads
+document.addEventListener('DOMContentLoaded', populateBinSelect);
