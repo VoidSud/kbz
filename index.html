@@ -39,7 +39,12 @@
                     .then((userCredential) => {
                         // Login successful
                         alert('Login successful');
-                        window.location.href = 'Dashboard.html'; // Redirect to dashboard
+                        
+                        // Set localStorage flag to indicate the user is logged in
+                        localStorage.setItem('loggedIn', 'true');
+                        
+                        // Redirect to dashboard
+                        window.location.href = 'Dashboard.html';
                     })
                     .catch((error) => {
                         // Handle Errors here.
@@ -64,12 +69,7 @@
                 <input type="password" placeholder="Password" id="password" required>
                 <span class="icon">&#128274;</span>
             </div>
-            <div class="options">
-                
-                
-            </div>
             <button type="submit">Login</button>
-            
         </form>
     </div>
 </body>
