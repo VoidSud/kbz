@@ -2,17 +2,17 @@
 function populateBinSelect() {
   const binSelect = document.getElementById('binInput');
 
-  // Fetch the list of BINs from the server
-  fetch('getBins.php')
+  // Fetch the list of BINs from the JSON file
+  fetch('bins.json')
     .then(response => {
       if (!response.ok) {
         throw new Error('Failed to load BINs');
       }
       return response.json();
     })
-    .then(bins => {
+    .then(data => {
       // Populate the selector with the retrieved BINs
-      bins.forEach(bin => {
+      data.bins.forEach(bin => {
         const option = document.createElement('option');
         option.value = bin;
         option.textContent = bin;
