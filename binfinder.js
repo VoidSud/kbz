@@ -44,7 +44,7 @@ function fetchDetails() {
   fetch(filePath)
     .then(response => {
       if (!response.ok) {
-        throw new Error('CC Not Found. Currently Unavailable');
+        throw new Error('Looks Like this bus doesn't exist 😔');
       }
       return response.text();
     })
