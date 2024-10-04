@@ -88,9 +88,14 @@
   <script>
     // Check if user is logged in before displaying the page
     if (localStorage.getItem('loggedIn') !== 'true') {
-      // If not logged in, redirect to login page
-      window.location.href = 'index.html';
+      console.log("User is not logged in, redirecting to login page...");
+      window.location.href = 'index.html'; // Redirect to login if not logged in
+    } else {
+      console.log("User is logged in.");
     }
+
+    // Debugging localStorage output
+    console.log("Logged in status:", localStorage.getItem('loggedIn'));
 
     // Fetch bus details when button is clicked
     function fetchDetails() {
