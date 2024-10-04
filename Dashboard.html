@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CCS Finder (Exclusive)</title>
+  <title>CC Finder (Exclusive)</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -38,7 +38,7 @@
       margin-bottom: 20px;
     }
 
-    input[type="text"] {
+    select {
       padding: 12px;
       width: 90%;
       margin-bottom: 20px;
@@ -74,9 +74,12 @@
 </head>
 <body>
   <div class="container">
-    <h1>CC Finder</h1>
-    <p>Enter a 6-digit BIN number:</p>
-    <input type="text" id="binInput" placeholder="Enter 6-digit BIN">
+    <h1>Bus Times</h1>
+    <p>Select Bus:</p>
+    <select id="binInput">
+      <option value="" disabled selected>Select a Bus:</option>
+      <!-- Options will be populated here by your JS -->
+    </select>
     <button onclick="fetchDetails()">Find Details</button>
     <p>Owner: @Deeltz</p>
     <div id="output"></div>
