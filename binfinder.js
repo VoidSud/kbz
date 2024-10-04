@@ -44,7 +44,7 @@ function fetchDetails() {
   fetch(filePath)
     .then(response => {
       if (!response.ok) {
-        throw new Error('Looks Like this bus doesn't exist 😔');
+        throw new Error('Looks Like this bus doesnt exist 😔');
       }
       return response.text();
     })
