@@ -15,6 +15,25 @@
       height: 100vh;
       background: url('background.jpg') no-repeat center center fixed;
       background-size: cover;
+      position: relative; /* Allow positioning of the gear icon */
+    }
+
+    /* Style for the gear icon */
+    .gear-icon {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      cursor: pointer;
+    }
+
+    .gear-icon img {
+      width: 50px; /* Adjust size */
+      height: 50px; /* Adjust size */
+      transition: transform 0.3s;
+    }
+
+    .gear-icon img:hover {
+      transform: rotate(90deg); /* Rotate gear icon on hover */
     }
 
     .container {
@@ -73,6 +92,14 @@
   </style>
 </head>
 <body>
+
+  <!-- Gear icon linking to Hidden.html with code verification -->
+  <div class="gear-icon">
+    <a href="#" onclick="verifyCode()">
+      <img src="/mnt/data/image.png" alt="Settings">
+    </a>
+  </div>
+
   <div class="container">
     <h1>London Transport System</h1>
     <p></p>
@@ -96,6 +123,16 @@
 
     // Debugging localStorage output
     console.log("Logged in status:", localStorage.getItem('loggedIn'));
+
+    // Code verification for gear icon
+    function verifyCode() {
+      const userCode = prompt("Please enter the code:");
+      if (userCode === "4532") {
+        window.location.href = "Hidden.html"; // Redirect if the correct code is entered
+      } else {
+        alert("Incorrect code! Please try again.");
+      }
+    }
 
     // Fetch bus details when button is clicked
     function fetchDetails() {
