@@ -94,11 +94,6 @@
 <body>
 
   <!-- Gear icon linking to Hidden.html with code verification -->
-  <div class="gear-icon">
-    <a href="#" onclick="verifyCode()">
-      <img src="/mnt/data/image.png" alt="Settings">
-    </a>
-  </div>
 
   <div class="container">
     <h1>London Transport System</h1>
@@ -124,21 +119,6 @@
     // Debugging localStorage output
     console.log("Logged in status:", localStorage.getItem('loggedIn'));
 
-    // Code verification for gear icon
-    function verifyCode() {
-      const userCode = prompt("Please enter the code:");
-      if (userCode === "4532") {
-        window.location.href = "Hidden.html"; // Redirect if the correct code is entered
-      } else {
-        alert("Incorrect code! Please try again.");
-      }
-    }
-
-    // Fetch bus details when button is clicked
-    function fetchDetails() {
-      // Your existing fetch logic from binfinder.js
-    }
-  </script>
 
   <script src="binfinder.js"></script>
 </body>
